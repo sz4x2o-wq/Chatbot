@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sarkari Sahayata</string>
+    <string name="portal_domain">sarkarisahayata.xyz</string>
+    <string name="portal_tagline">Yojana, Jobs, Results &amp; Citizen Guides</string>
+    <string name="splash_footer">Independent Citizen Information Portal</string>
+    <string name="nav_portal">Portal</string>
+    <string name="nav_explore">Quick Find</string>
+    <string name="nav_saved">Saved</string>
+    <string name="action_back">Go back</string>
+    <string name="action_home">Home</string>
+    <string name="action_refresh">Reload</string>
+    <string name="action_bookmark">Save page</string>
+    <string name="action_remove_bookmark">Remove saved page</string>
+    <string name="action_share">Share</string>
+    <string name="action_open_browser">Open in Browser</string>
+    <string name="action_try_again">Try Again</string>
+    <string name="action_network_settings">Open Network Settings</string>
+    <string name="offline_title">Connection Offline</string>
+    <string name="offline_subtitle">Unable to reach sarkarisahayata.xyz. Please check your Wi-Fi or mobile data connection to continue browsing.</string>
+    <string name="offline_restored">Internet restored! Reconnecting to portal…</string>
+    <string name="search_placeholder">Search schemes, jobs, admit cards…</string>
+    <string name="disclaimer_title">Informational Portal Notice</string>
+    <string name="disclaimer_body">Sarkari Sahayata (sarkarisahayata.xyz) is an independent citizen information portal, not an official government website. Always verify forms, dates, and fee payments on official .gov.in portals.</string>
+    <string name="saved_empty_title">No Saved Pages Yet</string>
+    <string name="saved_empty_body">Tap the bookmark icon while reading any Yojana, Job alert, Admit Card, or Result on sarkarisahayata.xyz to save it here for quick access.</string>
+</resources>

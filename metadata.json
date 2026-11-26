@@ -1,0 +1,6 @@
+{
+  "name": "Sarkari Sahayata",
+  "description": "Android portal app for Sarkari Sahayata (sarkarisahayata.xyz) offering quick access to public schemes, job updates, admit cards, results, search, saved bookmarks, and offline fallback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
